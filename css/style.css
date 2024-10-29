@@ -7,15 +7,6 @@ padding: 5;
 }
 
 
-.tag{
-
-    display: inline-block;
-    color: #F6F8F9;
-    font-size: 12px;
-    padding: 8px 12px;
-    border-radius: 12px;
-
-}
 
 body{
 
@@ -24,6 +15,36 @@ font-family: "Roboto", sans-serif;
 
 }
 
+
+
+.circle {
+
+display: inline-block;
+height: 20px;
+width:20px;
+border: 1px solid black;
+border-radius: 100%;
+
+}
+
+.btn{
+
+    background: transparent;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 6px;
+
+
+}
+
+
+.btn-blue {
+
+background-color: #14aaf5;
+color: #ffffff;
+border-color: #14aaf5;
+
+}
 
 
 /* ------ Page Header------*/
@@ -47,3 +68,65 @@ h1{
 vertical-align: middle;
 
 }
+
+main{
+
+background-color: #ffffff;
+width: 800px;
+margin: auto;
+border-radius: 10px;
+padding: 20px;
+
+
+}
+
+.tag{
+
+    display: inline-block;
+    color: #F6F8F9;
+    font-size: 12px;
+    padding: 8px 12px;
+    border-radius: 12px;
+
+}
+
+.tag-blue{
+
+background-color: #14aaf5;
+
+}
+
+.tag-purple{
+
+    background-color: #ab5de6;
+    
+}
+
+.tag-green{
+
+    background-color: #2cc6ab;
+    
+}
+
+
+.tag-orange{
+
+    background-color: #ff9b00;
+    
+}
+
+
+.tag-violet{
+
+    background-color: #ec4a9d;
+    
+}
+
+.tag-limegreen{
+
+    background-color: #a3d116;
+    
+}
+
+
+    
