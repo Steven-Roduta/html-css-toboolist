@@ -1,0 +1,19 @@
+
+/* ------ Page Header------*/
+
+.header{
+
+background-color: #ffff;
+padding: 15px 20px;
+margin-bottom: 40px;
+
+}
+
+.h1{
+
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 40px;
+}
+
